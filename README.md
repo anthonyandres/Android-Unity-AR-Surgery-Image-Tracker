@@ -28,5 +28,19 @@ The main goal of the application was to provide a way to visualize normally obst
   <img src="https://github.com/anthonyandres/Android-Unity-AR-Surgery-Image-Tracker/blob/main/Images/3dMockRender_C.jpg" alt="3diagram4" width="400"/>
 
 </div>
-
+<br />
 Users would have the smartphone pointed at the scene in a sturdy location to ensure proper tracking of marked image trackers. An image tracker would be used for each the patient spine and the surgical tool; Both image trackers would be used as a point of reference for location in 3D space. The spine tracker would allow for the superimposition of the 3D spine model over the real world patient spine, and the tool tracker would allow for the real world surgical tool to "interact" with the superimposed 3D spine model. The interaction between the real world tool and the 3D spine model is important as it allows the surgeon to know real world distances between their tool and the occluded spine sections. 
+
+# Important Components
+
+This section will explain the components of the Unity project that most contribute to the overall functionality of the application.
+
+## AR Session
+
+## XR Interaction Manager
+
+## XR Origin
+
+## General Managers
+
+## LineRenderer
